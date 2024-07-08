@@ -1,4 +1,4 @@
-# Sensing Data Classification Project
+# Remote Sensing Image Classification Project
 This project focuses on developing a deep learning model for classifying remote sensing data using the UC Merced Land Use Dataset. The dataset consists of images from various urban areas, manually extracted and categorized into 21 classes. The goal is to build a robust model capable of accurately identifying different land use types from aerial imagery.
 
 # Key Features
